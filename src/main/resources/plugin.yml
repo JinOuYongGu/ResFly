@@ -1,0 +1,4 @@
+name: Resfly
+version: ${project.version}
+main: me.jinouyonggu.resfly.Resfly
+api-version: 1.16
