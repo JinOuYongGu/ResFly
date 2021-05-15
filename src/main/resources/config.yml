@@ -1,0 +1,9 @@
+Auto-fly-permissions:
+  - essentials.fly
+
+Bypass-permissions:
+  - essentials.fly
+
+message:
+  leave: "你已离开领地 飞行已关闭"
+  enter: "你已进入领地 飞行已开启"
